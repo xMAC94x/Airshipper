@@ -20,7 +20,7 @@ use winapi::{
 
 pub fn query() -> Result<Option<Release>> {
     let releases = self_update::backends::github::ReleaseList::configure()
-        .repo_owner("songtronix")
+        .repo_owner("veloren")
         .repo_name("airshipper")
         .build()?
         .fetch()?;

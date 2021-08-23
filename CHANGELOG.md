@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.3] - 2021-08-23
+
+## Fixed
+
+- This version only changes the the update link for airshipper to the newer veloren repository. So that directly afterwards 0.5 can be downloaded there
 
 ## [0.4.2] - 2020-12-16
 
